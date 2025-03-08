@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1741321796 source:d:\166\functions\main.c
+	<stdio.h>
+	<string.h>
+	"hello.h"
+
+1741321752 source:d:\166\functions\hello.c
+	"hello.h"
+	<stdio.h>
+
+1741321754 d:\166\functions\hello.h
+
